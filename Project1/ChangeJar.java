@@ -26,6 +26,7 @@ public class ChangeJar {
     // Now you do the rest of the instance variables using the
     // Java Style guide.
     private int nickels;
+    
     private int pennies;
 
     /******************************************************************
